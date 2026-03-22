@@ -86,7 +86,3 @@ Sanskrit inspired prompt engineering
   This is NOT: (not specified)
   Do NOT: (not specified)
   Common Mistakes to Avoid: (not specified)
-
-========================================================================
-  END OF PROMPT
-========================================================================
